@@ -2,7 +2,7 @@
 
 {
   networking = {
-	hostName = "nixos-personal";
+	hostName = "aurora";
 	networkmanager.enable = true;
 	enableIPv6 = false;
 	firewall.enable = false;
