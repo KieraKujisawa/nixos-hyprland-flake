@@ -9,7 +9,7 @@
 
 	xserver = {
 		enable = true;
-		layout = "us, ru, ge";
+		layout = "us";
         xkbOptions = "grp:alt_shift_toggle, caps:swapescape";
 
 		displayManager = {
