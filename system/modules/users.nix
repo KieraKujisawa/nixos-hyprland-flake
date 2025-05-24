@@ -1,7 +1,7 @@
 { config, pkgs, ... }:
 
 {
-users.users.gpskwlkr = {
+users.users.kiera = {
      isNormalUser = true;
      shell = pkgs.zsh;
      extraGroups = [ 
